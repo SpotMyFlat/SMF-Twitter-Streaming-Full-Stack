@@ -1,0 +1,5 @@
+#!/usr/bin/env node
+var debug = require('debug')('expressapp');
+var app = require('../app');
+
+
